@@ -1,6 +1,6 @@
 ---
 ---
 
-# Minimal dark theme
+# zakkbob.dev Theme
 
-No idea what to call it yet, we'll see
+A Jekyll theme for my website
