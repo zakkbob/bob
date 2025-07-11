@@ -1,6 +1,6 @@
 ---
 ---
 
-# zakkbob.dev Theme
+# Bob
 
 A Jekyll theme for my website
